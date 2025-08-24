@@ -5,13 +5,10 @@
 ---
 
 ## 🎨 Collection Preview
+https://opensea.io/collection/spiritgorgons
 
-![Spirit Gorgona #1](images/gorgona1.gif)  
-![Spirit Gorgona #2](images/gorgona2.gif)  
-![Spirit Gorgona #3](images/gorgona3.gif)  
 
 ---
-
 ## 🏆 Rarity and Concept
 
 - The collection consists of **unique NFTs**, each with its own properties and mood.  
